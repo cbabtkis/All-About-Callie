@@ -1,0 +1,20 @@
+body{
+  padding: 20px;
+    background-image: url(https://cache.desktopnexus.com/thumbseg/968/968454-bigthumbnail.jpg);
+  background-repeat: no-repeat;
+background-size: cover;}
+.circle-photo{border-radius: 250px;
+  border: 5px solid black;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  overflow: hidden;
+  height:500px;
+  width: 500px}
+  h1{color: #636e72;}
+  h3{ color: #636e72;}
+  hr{
+  border-style: dotted none none;
+  border-color: #7d5fff;
+  border-width:8px;
+  height: 0px; width: 10%;}
